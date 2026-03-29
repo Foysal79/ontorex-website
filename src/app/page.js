@@ -212,9 +212,9 @@ const portfolio = [
 const team = [
   {
     name: "Foysal",
-    role: "Founder & Lead Developer",
+    role: "Founder & CEO of OntoRex",
     img: "https://i.ibb.co.com/zTDsPPyB/photo-2026-03-29-00-03-03.jpg",
-    bio: "Visionary coder with 10+ years in scalable architecture and system design.",
+    bio: "I lead operations and specialize in building scalable architectures and system designs, with over 5 years of hands-on experience delivering reliable, high-performance solutions.",
   },
   {
     name: "Sarah Jenkins",
