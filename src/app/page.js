@@ -97,9 +97,9 @@ const portfolio = [
 
 const team = [
   { 
-    name: "Alex Carter", 
+    name: "Foysal", 
     role: "Founder & Lead Developer", 
-    img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400",
+    img: "https://i.ibb.co.com/zTDsPPyB/photo-2026-03-29-00-03-03.jpg",
     bio: "Visionary coder with 10+ years in scalable architecture and system design."
   },
   { 
